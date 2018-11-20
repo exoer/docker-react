@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Rediger <code>src/App.js</code> og lagre for reload
+            I was changed on the feature branch
           </p>
           <a
             className="App-link"
